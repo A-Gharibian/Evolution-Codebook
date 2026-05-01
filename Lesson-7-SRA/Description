@@ -1,4 +1,4 @@
-Package: Logan mutation rte calculator
+Package: Logan mutation rate calculator
 Type: Package
 Title: Logan search result to Logan index bridge for mutation rate calculation
 Version: 0.1.0
