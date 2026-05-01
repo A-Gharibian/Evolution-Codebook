@@ -200,7 +200,7 @@ source("R/script5_tajimas_d.R")
 
 ## Citation
 
-[Placeholder] — Manuscript in preparation.
+Manuscript in preparation.
 
 ## Contributing
 
