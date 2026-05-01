@@ -1,0 +1,30 @@
+Package: Logan mutation rte calculator
+Type: Package
+Title: Logan search result to Logan index bridge for mutation rate calculation
+Version: 0.1.0
+Authors@R: person("Arootin", "Gharibian", email = "arootin.gharibian@vsb.cz", role = c("aut", "cre"))
+Description: Estimate, for each K-mer, how observed sequence variation deviates 
+from published expectations by comparing measured diversity (π, θ) to expected
+values derived from mutation rates and population parameters.
+Depends: R (>= 4.4)
+Imports:
+    jsonlite,
+    seqinr,
+    readr,
+    scales,
+    dplyr,
+    tidyr,
+    pegas,
+    ape,
+    forcats,
+    pheatmap,
+    ComplexHeatmap,
+    viridis,
+    ggplot2,
+    ggtree,
+    ggrepel,
+    ggalluvial,
+    circlize
+License: MIT
+Encoding: UTF-8
+LazyData: true
