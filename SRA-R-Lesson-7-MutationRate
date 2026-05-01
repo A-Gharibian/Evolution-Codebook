@@ -6,7 +6,7 @@ Authors@R: person("Arootin", "Gharibian", email = "arootin.gharibian@vsb.cz", ro
 Description: Estimate, for each K-mer, how observed sequence variation deviates 
 from published expectations by comparing measured diversity (π, θ) to expected
 values derived from mutation rates and population parameters.
-Depends: R (>= 4.4)
+Depends: R (>= 4.6)
 Imports:
     jsonlite,
     seqinr,
@@ -25,6 +25,6 @@ Imports:
     ggrepel,
     ggalluvial,
     circlize
-License: MIT
+License: AGPL-3
 Encoding: UTF-8
 LazyData: true
