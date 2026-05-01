@@ -1,6 +1,6 @@
-Package: Logan mutation rate calculator
+Package: SRA mutation rate calculator
 Type: Package
-Title: Logan search result to Logan index bridge for mutation rate calculation
+Title: SRA search result to Logan index bridge for mutation rate calculation
 Version: 0.1.0
 Authors@R: person("Arootin", "Gharibian", email = "arootin.gharibian@vsb.cz", role = c("aut", "cre"))
 Description: Estimate, for each K-mer, how observed sequence variation deviates 
